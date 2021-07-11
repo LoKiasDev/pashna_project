@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626004824 source:c:\users\matteo\onedrive\documents\coding\langage_c\project_pashna\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
